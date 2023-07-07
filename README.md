@@ -1,4 +1,4 @@
-![Banner](documents/HexforgedBanner.png)
+![Banner](photoshop/HexforgedBanner.png)
 
 <h1 align="center">
 Hexforged
